@@ -1,4 +1,4 @@
-Hello! I am L.So. 
+Hello! I am L.So, or Laurence So.
 
 My account is really new because I've just started programming. The first thing I did on here was fiddle around with a weird pull request on some file simulator I found by another student online. Probably shouldn't have done that.
 
